@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter";
+  text-decoration-color: black;
+}
+
+.purp{
+  background-color: #4A4F8D;
+}
+
+.must{
+  background-color: #DB9F2F;
+}
