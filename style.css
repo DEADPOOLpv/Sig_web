@@ -11,6 +11,13 @@ body {
 .purp{
   background-color: #4A4F8D;
 }
+.clip-custom {
+  width: 500px;
+    height: 500px;
+    background-color: #4A4F8D;
+    border-bottom-right-radius: 450px;
+  
+}
 
 .must{
   background-color: #DB9F2F;
